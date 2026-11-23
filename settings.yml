@@ -1,3 +1,4 @@
+
 general:
   debug: false
   instance_name: "SearXNG"
@@ -58,3 +59,4 @@ engines:
 
 
 
+use_default_settings: true
